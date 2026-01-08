@@ -18,8 +18,17 @@ La visualización interactiva final ha sido desarrollada en **Flourish**, utiliz
 │ └── Análisis.ipynb  
 │ └── Limpieza_e_integración.ipynb  
 ├── data/  
-│ └── movies_with_age_gap  
+│ └── movies_with_age_gap.xlsx  
+│ └── age_gaps.csv  
 └── README.md  
+
+## 📁 Data
+
+- **`age_gaps.csv`**  
+  Archivo que contiene los datos de Hollywood Age Gap.
+- **`movies_with_age_gap.xlsx`**  
+  Dataset resultante de la limpieza e integración y a partir del cual se realiza en análisis y los datos finales para Flourish.
+- **Bechdel test** se obtiene directamente de Github.
 
 ## 🧹 Notebook 1: Limpieza e integración
 
