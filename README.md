@@ -9,17 +9,17 @@ El proyecto utiliza el **Test de Bechdel** como herramienta analítica para estu
 
 ## 📊 Visualización final
 
-La visualización interactiva final ha sido desarrollada en **Flourish**, utilizando los datasets preparados en estos notebooks.  
+La visualización interactiva final ha sido desarrollada en **Flourish**, utilizando los datasets preparados en estos notebooks. En enlace es el siguiente: https://www.canva.com/design/DAG8yiUnMeY/qvM3mqsUe_jlXOtlcTA08w/view?utm_content=DAG8yiUnMeY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4743f1ffa4
 
 ---
 
 ## 🗂️ Estructura del repositorio
-├── source/
-│ └── Análisis.ipynb
-│ └── Limpieza_e_integración.ipynb
-├── data/
-│ └── movies_with_age_gap
-└── README.md
+├── source/  
+│ └── Análisis.ipynb  
+│ └── Limpieza_e_integración.ipynb  
+├── data/  
+│ └── movies_with_age_gap  
+└── README.md  
 
 ## 🧹 Notebook 1: Limpieza e integración
 
@@ -44,3 +44,12 @@ Este notebook prepara los datos finales que alimentan la visualización en Flour
 
 ⚠️ **Nota**:  
 Algunos gráficos de la visualización final **no tienen un equivalente directo en código dentro de este notebook**, ya que se han construido directamente en Flourish a partir del dataset resultante de la limpieza inicial.
+
+
+
+
+
+**Idoia Dávila Uzcudun**  
+Visualización de datos
+Máster en Ciencia de Datos – UOC  
+Enero 2026
